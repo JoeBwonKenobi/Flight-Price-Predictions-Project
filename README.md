@@ -26,6 +26,9 @@ This project uses data about flight prices to make predictions about the prices 
 
 ## **Plotting y_test vs Predictions**
 
+![image](https://user-images.githubusercontent.com/117705408/233181776-7fe59dd5-3cee-45ff-8d46-139ce8debd69.png)
+
+
 ![image](https://user-images.githubusercontent.com/117705408/233181538-eb821af6-333b-45bf-8936-de35659f6f3f.png)
 
 
