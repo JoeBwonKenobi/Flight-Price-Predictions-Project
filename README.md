@@ -1,5 +1,5 @@
 # **Flight Price Predictions Project**
- Predicting Flight Prices with Flask APP
+ Predicting Flight Prices using Random Forest Regressor
 
 # **Overview:**
 
