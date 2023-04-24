@@ -42,7 +42,7 @@ As we can see that most of the residuals are 0, which means the model is general
 
 ![image](https://user-images.githubusercontent.com/117705408/233181538-eb821af6-333b-45bf-8936-de35659f6f3f.png)
 
-
-
+- Simply plotting our predictions vs the true values.
+- Ideally, it should be a straight line.
 
 Project source link: https://machinelearningprojects.net/flight-price-prediction/
