@@ -11,6 +11,7 @@ Project source link: https://machinelearningprojects.net/flight-price-prediction
 
 # **Methods**
 
+I used an Extra Tree Regressor model to predict flight prices. I cleaned the data, performed exploratory data analysis, visualized the data to understand the trends of ticket prices, trained and evaluated the model, and built the model inference using Flask.
 # **Visualizations:**
 
 ## **Airline vs Price Plot**
@@ -52,4 +53,9 @@ As we can see that most of the residuals are 0, which means the model is general
 
 # **Recommendations:**
 
+The provided insights can pait a larger picture of which airlines have higher prices based on destinations of departure and arrival. The trends and patterns provided can give executives an oppurtunity to examine the potential for necessary changes. 
+total stops seemed to make an profound impact on flight price, as did distance and day of the week as flights were generally higher on weekends.
+
 # **Limitations & Next Steps:**
+
+This predictions model is limited to the dat it was given, meaning if it were possible to obtian more data about past flights it would perform better. There are many steps that could be taken from here including implementing a plan for maximizing profits, making logistics more efficent, and looking into where to build more airports based on the insights provided. 
