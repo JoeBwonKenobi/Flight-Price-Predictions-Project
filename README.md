@@ -5,6 +5,11 @@
 
 This project uses data about flight prices to make predictions about the prices for a given route. The various steps taken were data cleaning, exploratory data analysis, visualizing the data to understand the trends of the ticket prices, training and evaluating a random forest regression model and build model inference using Flask. 
 
+# **Data Source:**
+
+Project source link: https://machinelearningprojects.net/flight-price-prediction/
+
+# **Methods**
 
 # **Visualizations:**
 
@@ -45,4 +50,6 @@ As we can see that most of the residuals are 0, which means the model is general
 - Simply plotting our predictions vs the true values.
 - Ideally, it should be a straight line.
 
-Project source link: https://machinelearningprojects.net/flight-price-prediction/
+# **Recommendations:**
+
+# **Limitations & Next Steps:**
