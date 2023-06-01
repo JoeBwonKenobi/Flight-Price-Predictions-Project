@@ -1,4 +1,8 @@
 # **Flight Price Predictions Project**
+
+![image](https://github.com/JoeBwonKenobi/Flight-Price-Predictions-Project/assets/117705408/5413db8e-0624-47ef-b808-80715aaa3638)
+
+
  Predicting Flight Prices using Random Forest Regressor
 
 # **Overview:**
