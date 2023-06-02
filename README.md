@@ -16,6 +16,11 @@ Project source link: https://machinelearningprojects.net/flight-price-prediction
 # **Methods**
 
 I used an Extra Tree Regressor model to predict flight prices. I cleaned the data, performed exploratory data analysis, visualized the data to understand the trends of ticket prices, trained and evaluated the model, and built the model inference using Flask.
+
+- Here is a link to the notebook showcasing my work:
+
+   https://github.com/JoeBwonKenobi/Flight-Price-Predictions-Project/blob/main/Flight%20Price%20Prediction.ipynb
+   
 # **Visualizations:**
 
 ## **Airline vs Price Plot**
